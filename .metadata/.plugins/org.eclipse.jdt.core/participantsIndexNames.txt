@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\Users\divyapa\Desktop\vedang_java_minor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1574926476.index
+\java-vedang\src\main\java
+C:\Users\divyapa\Desktop\vedang_java_minor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\918342824.index
+\Project-G6\src\main\java
+C:\Users\divyapa\Desktop\vedang_java_minor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\274107782.index
+\Project-G6\src\main\java
+C:\Users\divyapa\Desktop\vedang_java_minor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2854501509.index
+\Project-G6\src
+C:\Users\divyapa\Desktop\vedang_java_minor\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3269806215.index
+\java-vedang\src\main\resources
